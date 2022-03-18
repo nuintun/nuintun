@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br />
 <div>
   <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&layout=compact&hide=Objective-C,shell,swift,lua&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&layout=compact&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
 </div>
