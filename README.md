@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <div class="half">
   <a href="https://github.com/nuintun"><img src="https://github-readme-stats.vercel.app/api?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
-  <a href="https://github.com/nuintun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+  <a href="https://github.com/nuintun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&layout=compact&hide=Objective-C,shell,swift,lua&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
