@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img align="center" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
 <br />
 <div>
   <a href="https://github.com/nuintun">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&layout=compact&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
   </a>
 </div>
 <br />
 <div>
   <a href="https://github.com/nuintun">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
   </a>
 </div>
