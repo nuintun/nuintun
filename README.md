@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <br />
 <div>
   <a href="https://github.com/nuintun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuintun&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuintun&show_icons=true&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
   </a>
 </div>
